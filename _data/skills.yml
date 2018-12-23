@@ -1,0 +1,60 @@
+- skill:
+  name: Python
+  level: 90%
+  theme: wisteria
+- skill:
+  name: Flask
+  level: 90%
+  theme: sunflower
+- skill:
+  name: Django
+  level: 80%
+  theme: emerald
+- skill:
+  name: Celery
+  level: 75%
+  theme: midnight
+- skill:
+  name: Scala
+  level: 10%
+  theme: pomengrate
+- skill:
+  name: Cassandra
+  level: 70%
+  theme: sunflower
+- skill:
+  name: Redis
+  level: 70%
+  theme: emerald
+- skill:
+  name: MongoDB
+  level: 80%
+  theme: wisteria
+- skill:
+  name: Elasticsearch
+  level: 60%
+  theme: midnight
+- skill:
+  name: PostgreSQL
+  level: 80%
+  theme: sunflower
+- skill:
+  name: AWS
+  level: 70%
+  theme: asbestos
+- skill:
+  name: Web Services
+  level: 90%
+  theme: carrot
+- skill:
+  name: Socket.io
+  level: 65%
+  theme: emerald
+- skill:
+  name: Git
+  level: 80%
+  theme: pomengrate
+- skill:
+  name: PHP
+  level: 60%
+  theme: wisteria
