@@ -7,7 +7,7 @@
         <div class="item">
             <ul>
                 <li><h4 class="level-title">Programming Languages:</h4> Python, Java and PHP</li>
-                <li><h4 class="level-title"> OS Environments:</h4> Ubuntu and macOS</li>
+                <li><h4 class="level-title">OS Environments:</h4> Ubuntu and macOS</li>
                 <li><h4 class="level-title">Web frameworks:</h4> Django, Flask, YII</li>
                 <li><h4 class="level-title">Libraries:</h4> Pandas, Numpy,Spacy and PySpark</li>
                 <li><h4 class="level-title">Tools & Technologies:</h4>JIRA, AWS, GCP, Docker, Jupyter Notebook</li>
@@ -20,18 +20,6 @@
                 </li>
             </ul>
         </div>
-        {% for skill in site.data.skills %}
-        <div class="item">
-            <h4 class="level-title">{{ skill.name }}</h4>
-            <div class="level-bar">
-                <div class="meter {{ skill.theme }}">
-        <span style="width: {{ skill.level }};">
-          <!-- <span>{{ skill.name }}</span> -->
-        </span>
-                </div>
-            </div>
-        </div>
-        {% endfor %}
     </div>
 </section>
 {% endif %}
