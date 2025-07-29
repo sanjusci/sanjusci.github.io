@@ -4,10 +4,14 @@
   <h2 class="container-block-title">Certifications</h2>
 
     <ul class="list-unstyled certificate-list">
-      {% for certificate in site.data.certifications %} %}
+      {% for certificate in site.data.certifications %}
 
       {% if certificate.link %}
-        <li><a href="{{ certificate.link }}">{{ certificate.item }}</a></li>
+        <li><p>
+          <a href="{{ certificate.link }}"><b>{{ certificate.item }}</b></a>
+          <br>
+          <b>Issued by: </b>{{ certificate.issuer }} }}
+          </p></li>
         {% else %}
         <li>{{ certificate.item }}</li>
         {% endif %}
