@@ -16,8 +16,11 @@ tagline: Software Engineer
 subtagline: (Python|JAVA|PHP)
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: '
-<p>Over 10+ years of experience in Software engineering and Data engineering professional with extensive experience in developing scalable data solutions and managing complex software projects. Reliable in driving results with key skills in data modeling, ETL processes, and cloud-based data platforms. Known for strong commitment to team collaboration and delivering high-quality results. Recognized for problem-solving abilities and adaptability in dynamic environments, with advanced skills in programming, system architecture, and team leadership.</p>
-<p>► Open & keen to explore new technologies AI/Machine learning etc</p>
+<p>Over 10+ years of experience in Software engineering and Data engineering professional with extensive experience 
+in developing scalable data solutions and managing complex software projects. Reliable in driving results with key 
+skills in data modeling, ETL processes, and cloud-based data platforms. Known for strong commitment to team 
+collaboration and delivering high-quality results. Recognized for problem-solving abilities and adaptability in 
+dynamic environments, with advanced skills in programming, system architecture, and team leadership.</p>
 '
 
 #sidebar links

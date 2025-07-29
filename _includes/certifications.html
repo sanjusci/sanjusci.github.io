@@ -1,0 +1,19 @@
+{% if site.data.certifications %}
+<div class="certificate-container container-block">
+
+  <h2 class="container-block-title">Certifications</h2>
+
+    <ul class="list-unstyled certificate-list">
+      {% for certificate in site.data.certifications %} %}
+
+      {% if certificate.link %}
+        <li><a href="{{ certificate.link }}">{{ certificate.item }}</a></li>
+        {% else %}
+        <li>{{ certificate.item }}</li>
+        {% endif %}
+
+      {% endfor %}
+    </ul>
+
+</div><!--//certificate-->
+{% endif %}
