@@ -167,6 +167,15 @@ p {
 .sidebar-wrapper .certificate-list li:last-child {
   margin-bottom: 0;
 }
+.sidebar-wrapper .award-list {
+  margin-bottom: 0;
+}
+.sidebar-wrapper .award-list li {
+  margin-bottom: 10px;
+}
+.sidebar-wrapper .award-list li:last-child {
+  margin-bottom: 0;
+}
 .main-wrapper {
   background: #fff;
   padding: 60px;
