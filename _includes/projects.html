@@ -4,6 +4,8 @@
   <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
 
   {% for project in site.data.projects %}
+      {{project}}
+      {{project.tagline}}
       {{project.title}}
     <div class="item">
       <span class="project-title">{{ project.title }}</span>
