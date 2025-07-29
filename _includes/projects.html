@@ -3,16 +3,16 @@
 
   <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
 
-<!--  {% for intro in site.data.projects %}-->
-<!--  <div class="intro">-->
-<!--      <p>{{ intro.description }}</p>-->
-<!--  </div>&lt;!&ndash;//intro&ndash;&gt;-->
-<!--  {% endfor%}-->
+  {% for intro in site.data.projects %}
+  <div class="intro">
+      <p>{{ intro.description }}</p>
+  </div><!--//intro-->
+  {% endfor%}
 
   {% for project in site.data.projects %}
     <div class="item">
 
-      <span class="project-title">{{ project.title }}</span>
+      <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>
 
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
