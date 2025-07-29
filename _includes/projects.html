@@ -1,25 +1,23 @@
 {% if site.data.projects %}
 <section class="section projects-section">
 
-  <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
+    <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
 
-<!--  {% for intro in site.data.projects %}-->
-<!--  <div class="intro">-->
-<!--      <p>{{ intro.description }}</p>-->
-<!--  </div>&lt;!&ndash;//intro&ndash;&gt;-->
-<!--  {% endfor%}-->
-
-  {% for project in site.data.projects %}
-    <div class="item">
-
-      <span class="project-title">{{ project.title }}</span>
-
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
-
-    </div><!--//item-->
-  {% endfor %}
-
+    <!--  {% for intro in site.data.projects %}-->
+    <!--  <div class="intro">-->
+    <!--      <p>{{ intro.description }}</p>-->
+    <!--  </div>&lt;!&ndash;//intro&ndash;&gt;-->
+    <!--  {% endfor%}-->
+    <ul class="list-unstyled">
+        {% for project in site.data.projects %}
+        <div class="item">
+            <li><span class="project-title"><h4>{{ project.title }}</h4></span>
+                {% if project.tagline %}
+                - <span class="project-tagline">{{ project.tagline }}</span>
+                {% endif %}
+            </li>
+        </div><!--//item-->
+        {% endfor %}
+    </ul>
 </section><!--//section-->
 {% endif %}
