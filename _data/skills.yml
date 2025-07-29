@@ -15,6 +15,10 @@
   level: 75%
   theme: midnight
 - skill:
+  name: Java
+  level: 40%
+  theme: pomengrate
+- skill:
   name: Scala
   level: 10%
   theme: pomengrate
@@ -58,3 +62,7 @@
   name: PHP
   level: 60%
   theme: wisteria
+- skill:
+  name: GCP
+  level: 40%
+  theme: asbestos

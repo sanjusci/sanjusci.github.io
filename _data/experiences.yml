@@ -1,12 +1,50 @@
 - experience:
-  role: Sr. Software Engineer
-  time: Feb 2017 - Present
+  role: Lead Software Engineer
+  time: Jan 2022 - Present
+  company: GlobalLogic, Noida (Remote)
+  details: "<ul><li>Led a team of software engineers to successfully complete projects within deadlines, ensuring 
+  high-quality end products.</li><li>Implemented and adopted cloud technologies and best practices for automation, 
+  configuration, monitoring and platform scalability.</li><li>Collaborated with cross-functional teams to deliver 
+  comprehensive solutions for clients' needs.</li><li>Improved DevOps across deployment and testing strategies and 
+  application monitoring.</li><li>Delivered technical guidance and consultation with application teams, clients and 
+  developers for technology domain environments.</li><li>Presented technical concepts clearly during meetings with 
+  stakeholders, ensuring alignment on project objectives and expectations.</li><li>Streamlined codebase for increased
+   efficiency with regular refactoring and optimization efforts.</li></ul>"
+- experience:
+  role: Sr. Data Engineer
+  time: Feb 2018 - Dec-2021
+  company: Srijan Technologies Pvt. Ltd, New Delhi
+  details: "<ul><li>Optimized data pipelines by implementing advanced ETL processes and streamlining data flow
+  .</li><li>Enhanced system performance by designing and implementing scalable data solutions for high-traffic 
+  applications.</li><li>Mentored junior team members in best practices for software development, code optimization, 
+  and troubleshooting techniques.</li><li>Collaborated with cross-functional teams to define requirements and develop
+   end-to-end solutions for complex data engineering projects.</li><li>Directed software design and development while
+    remaining focused on overall objective and client needs.</li><li>Wrote and maintained technical and functional 
+    specifications to document database intentions and requirements.</li><li>Collected requirements and designed 
+    advanced analytics ranging from descriptive to predictive models, machine learning techniques.</li><li>Analyzed 
+    complex data and identified anomalies, trends and risks to provide useful insights to improve internal controls
+    .</li><li>Developed, implemented, supported and maintained data analytics protocols, standards and documentation
+    .</li><li>Increase 2X faster cleaning tracking of employees.</li></ul>"
+- experience:
+  role: Sr. Python Engineer
+  time: Jan 2017 - Feb 2018
   company: Tagbin Services Pvt. Ltd., Gurugram
+  details: "<ul><li>Identified problems and solutions to meet client needs. Adaptable and proficient in learning new 
+  concepts quickly and efficiently.</li><li>Proved successful working within tight deadlines and a fast-paced 
+  environment.</li><li>Resolved problems, improved operations and provided exceptional service. Self-motivated, with 
+  a strong sense of personal responsibility.</li><li>Reported status of program and application development and 
+  rollouts to the clients.</li><li>Integrated third-party APIs seamlessly into existing systems, expanding product 
+  capabilities without additional overhead costs.</li><li>Designed, coded, tested, debugged and documented programs 
+  using agile development practices.</li><li>Evaluated new technologies consistently, staying up-to-date on industry 
+  trends and innovations that could benefit ongoing projects or future initiatives.</li></ul>"
 - experience:
   role: Software Engineer
-  time: Sep 2013 - Feb 2017
+  time: Jan 2014 - Jan 2017
   company: Incaendo Technologies Pvt. Ltd., New Delhi
-  # details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  # elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  # magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  # pellentesque eu, pretium quis, sem."
+  details: "<ul><li>Worked on different projects including Social Networking, Food and E-Commerce domain.</li>
+  <li>Worked with project managers, developers, quality assurance and customers to resolve
+technical issues.</li><li>Researched, designed and implemented scalable applications for data extraction, analysis, 
+retrieval and indexing.</li><li>Carefully documented technical workflows and knowledge in private wiki for education 
+of newly hired employees.</li><li>Improved software performance by identifying and resolving bottlenecks in the code
+.</li><li>Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs and 
+enhancements.</li></ul>"

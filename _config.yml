@@ -12,18 +12,17 @@ baseurl: '/' #change it according to your repository name
 
 #Profile information
 name: Sanjeev Kumar
-tagline: Backend Developer
-subtagline: (Python|Scala|PHP)
+tagline: Software Engineer
+subtagline: (Python|JAVA|PHP)
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: '
-<p>► ~5 years of experience while working in product-based and service-based startus.</p>
-<p>► Exposure to  design scalable systems using microservice-based architecture(SOA).</p>
-<p>► Open & keen to explore new technologies(Functional programming/Machine learning etc.)</p>
+<p>Over 10+ years of experience in Software engineering and Data engineering professional with extensive experience in developing scalable data solutions and managing complex software projects. Reliable in driving results with key skills in data modeling, ETL processes, and cloud-based data platforms. Known for strong commitment to team collaboration and delivering high-quality results. Recognized for problem-solving abilities and adaptability in dynamic environments, with advanced skills in programming, system architecture, and team leadership.</p>
+<p>► Open & keen to explore new technologies AI/Machine learning etc</p>
 '
 
 #sidebar links
 email: sanju.sci9@gmail.com
-phone: +91-0000000000
+phone: +91-9650318107
 #website: blog.sanjusci.com #do not add http://
 linkedin: sanjusci
 github: sanjusci
