@@ -15,12 +15,23 @@ name: Sanjeev Kumar
 tagline: Software Engineer
 subtagline: (Python|JAVA|PHP)
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: '
-<p>Over 10+ years of experience in Software engineering and Data engineering professional with extensive experience 
-in developing scalable data solutions and managing complex software projects. Reliable in driving results with key 
-skills in data modeling, ETL processes, and cloud-based data platforms. Known for strong commitment to team 
-collaboration and delivering high-quality results. Recognized for problem-solving abilities and adaptability in 
-dynamic environments, with advanced skills in programming, system architecture, and team leadership.</p>
+#summary: '
+#<p>Over 10+ years of experience in Software engineering and Data engineering professional with extensive experience
+#in developing scalable data solutions and managing complex software projects. Reliable in driving results with key
+#skills in data modeling, ETL processes, and cloud-based data platforms. Known for strong commitment to team
+#collaboration and delivering high-quality results. Recognized for problem-solving abilities and adaptability in
+#dynamic environments, with advanced skills in programming, system architecture, and team leadership.</p>
+#'
+summary: '<ul><li>Engineering professional with 10+ years of experience in Software development, Data Engineering
+.</li><li>Mastering/Leading in the development of applications/tools using Python for 8+ years.</li><li>Having Good 
+Experience in Object Oriented Concepts with Python and Java.</li><li>Experience in Design, Development, Testing, 
+Enhancement and Maintenance of Applications and Tools.</li><li>Good knowledge in various phases of SDLC Requirement 
+Analysis, Design, Development and Testing on various Development and Enhancement Projects.</li><li>Familiarity with 
+development best practices such as code reviews and unit testing.</li><li>Leading, guiding and helping the team 
+members with the challenges faced during the project development process and problem solving.</li><li>Have 
+flexibility and ability to learn and use new technologies and also to work in a team environment as well as 
+independently to get things done.</li><li>Well-versed in version control and CI-CD tools such as SVN, GIT, Bitbucket,
+etc.</li><li>Experience in Amazon Web Services (AWS) products S3, EC2, and RDS.</li><ul>
 '
 
 #sidebar links
