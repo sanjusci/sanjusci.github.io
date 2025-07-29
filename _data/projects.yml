@@ -1,15 +1,15 @@
 # - intro:
 #   description: ""
 - project:
-    title: Employee Lifecycle's Management
+    title: Workforce Lifecycle Management
     link:
-    tagline: 'Automated system managing employee lifecycle stages—onboarding to offboarding—via integrated data 
-   pipelines for seamless HR operations and analytics.'
+    tagline: "Automated system managing employee lifecycle stages—onboarding to offboarding—via integrated data 
+   pipelines for seamless HR operations and analytics."
 - project:
-    title: Project Lifecycles Management
+    title: Project Lifecycle Management
     link:
-    tagline: 'Automated system managing complete project lifecycles through data pipelines—enabling real-time 
-   tracking, analytics, and seamless cross-tool integration.'
+    tagline: "Automated system managing complete project lifecycles through data pipelines—enabling real-time 
+   tracking, analytics, and seamless cross-tool integration."
 - project:
     title: Diversey Time & Task
     link:
@@ -19,23 +19,23 @@
 - project:
     title: Hotel Taxonomy
     link:
-    tagline: 'ML-driven system recommends hotels based on user behavior, preferences, and historical data using 
-    collaborative, content-based, or hybrid models.'
+    tagline: "ML-driven system recommends hotels based on user behavior, preferences, and historical data using 
+    collaborative, content-based, or hybrid models."
 - project:
     title: Vimient( Senior Citizen Remote Monitoring) Application
     link:
-    tagline: 'A smart monitoring app that tracks senior citizens’ health, safety, and activity remotely, ensuring 
-    timely alerts and family peace of mind.'
+    tagline: "A smart monitoring app that tracks senior citizens’ health, safety, and activity remotely, ensuring 
+    timely alerts and family peace of mind."
 - project:
     title: Green Box Analysis(Mckinsey)
     link:
-    tagline: 'A strategic McKinsey tool for identifying high-impact opportunities by mapping initiatives based on 
-    value creation and implementation feasibility'
+    tagline: "A strategic McKinsey tool for identifying high-impact opportunities by mapping initiatives based on 
+    value creation and implementation feasibility"
 - project:
     title: Bharat Pay (PrePaid Card Banking System)
     link:
-    tagline: 'Perpaid Baning System like AEPS, wallet, recharge and other services'
+    tagline: "Perpaid Baning System like AEPS, wallet, recharge and other services"
 - project:
-    title: Domino's Pizza India and Sri Lanka Online ordering portal
+    title: Domino"s Pizza India and Sri Lanka Online ordering portal
     link: https://pizzaonline.dominos.co.in
     tagline: Online food ordering system
